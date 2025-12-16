@@ -20,7 +20,7 @@ A beautiful, beginner-friendly weather application built with **Python** and **S
 
 ## 🎯 Demo
 
-[Live Demo]([https://your-app-name.streamlit.app](https://weather-2025.streamlit.app/)) *(Deploy and add your link here)*
+[Live Demo]([https://weather-2025.streamlit.app/])
 
 ### Screenshots
 
@@ -284,4 +284,5 @@ If you encounter any issues or have questions:
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 Made with ❤️ and Python
+
 
